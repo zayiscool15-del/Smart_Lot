@@ -1,0 +1,21 @@
+[Start]
+   ↓
+[User Opens SmartLot App]
+   ↓
+[System Requests Parking Data]
+   ↓
+[Sensors/Cameras Detect Available Spaces]
+   ↓
+[Data Sent to SmartLot Server]
+   ↓
+[Server Processes & Updates Data]
+   ↓
+[App Displays Available Parking on Map]
+   ↓
+[User Selects Parking Lot]
+   ↓
+[Navigation to Selected Spot]
+   ↓
+[User Parks Vehicle]
+   ↓
+[End]
